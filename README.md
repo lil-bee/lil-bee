@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Fadhil from Indonesia<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React and it ecosystem<br>- ⚡ In my free time I watch football and reading books</p>
+<p align="left">I'm Fadhil from Indonesia<br><br>- 🔭  Currently honing my skills in Frontend Development.<br>- 📚 Actively learning about React and its ecosystem.<br>- ⚡ In my free time, I enjoy watching football and reading books</p>
 
 ###
 
@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lil-bee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lil-bee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
