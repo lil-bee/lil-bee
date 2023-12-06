@@ -1,7 +1,9 @@
- ![fadhil1 (1)](https://github.com/lil-bee/lil-bee/assets/61036950/bcefed8a-e5c5-4b27-ba1c-8859894a97c4)
-<div align="center">
 
+<div align="center">
+ <img src="https://github.com/lil-bee/lil-bee/assets/61036950/62b8c15b-1e4b-4a71-b8d6-928c536e86cd" height="400
+" alt="linkedin logo"  />
 </div>
+
 
 ###
 
