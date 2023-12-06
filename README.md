@@ -1,5 +1,6 @@
+ ![fadhil1 (1)](https://github.com/lil-bee/lil-bee/assets/61036950/bcefed8a-e5c5-4b27-ba1c-8859894a97c4)
 <div align="center">
-  <img height="150" src="https://pasteboard.co/wRgg5JhsKkHi.png"  />
+
 </div>
 
 ###
