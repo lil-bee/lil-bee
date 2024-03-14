@@ -1,9 +1,6 @@
 
-<div align="center">
- <img src="https://github.com/lil-bee/lil-bee/assets/61036950/62b8c15b-1e4b-4a71-b8d6-928c536e86cd" height="250
-" alt="linkedin logo"  />
-</div>
-
+###
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -24,9 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
