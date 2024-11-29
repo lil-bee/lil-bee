@@ -5,7 +5,7 @@ Frontend Developer passionate in creating high-performance & interactive modern 
 ## 🚀 About Me
 - ⚙️ Currently working as Frontend Engineer at **PT Prestasindo Gudang Teknologi**
 - ⚡ Passionate about performance optimization and interactive animations
-- 💎 Currently exploring animation with [motion.dev](https://motion.dev/) and learning backend development
+- 💎 Currently exploring animation with [motion.dev](https://motion.dev/) and learning backend development (Go & PostgreSQL)
 - 📚 Love exploring new technologies and sharing knowledge
 - 😎 In my free time, I enjoy watching football and reading books
 
