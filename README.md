@@ -5,13 +5,13 @@ Frontend Developer passionate in creating high-performance & interactive modern 
 ## 🚀 About Me
 - ⚙️ Currently working as Frontend Engineer at **PT Prestasindo Gudang Teknologi**
 - ⚡ Passionate about performance optimization and interactive animations
-- 💎 Currently exploring animation with [motion.dev](https://motion.dev/) and learning backend development (Go & PostgreSQL)
+- 💎 Currently exploring animation with [motion.dev](https://motion.dev/) and learning backend development (Go)
 - 📚 Love exploring new technologies and sharing knowledge
 - 😎 In my free time, I enjoy watching football and reading books
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby)
-![My Skills](https://skillicons.dev/icons?i=materialui,mongodb,vite,figma,wordpress,go,graphql,netlify,vercel)
+![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,materialui)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,vite,figma,wordpress,go,graphql,netlify,vercel)
 
 
 ## 📈 GitHub Stats
