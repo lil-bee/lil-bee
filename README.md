@@ -11,7 +11,7 @@ Frontend Developer passionate in creating high-performance & interactive modern 
 
 ## 💻 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,materialui)
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,vite,figma,wordpress,go,graphql,netlify,vercel)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,vite,figma,wordpress,go,graphql,netlify,vercel)
 
 
 ## 📈 GitHub Stats
