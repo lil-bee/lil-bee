@@ -1,6 +1,6 @@
 # Hi there! I'm Fadhil 👋 
 
-Frontend Developer passionate in creating high-performance & interactive modern web experiences with React and Next.js.
+Frontend Engineer passionate in creating high-performance & interactive modern web experiences with React and Next.js.
 
 ## 🚀 About Me
 - ⚙️ Currently working as Frontend Engineer at **PT Prestasindo Gudang Teknologi**
