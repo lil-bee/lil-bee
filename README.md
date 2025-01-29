@@ -10,7 +10,7 @@ Frontend Engineer passionate in creating high-performance & interactive modern w
 - 😎 In my free time, I enjoy watching football and reading books
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,materialui)
+![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,flutter,materialui)
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,vite,figma,wordpress,go,graphql,netlify,vercel)
 
 
