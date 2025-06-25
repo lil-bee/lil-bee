@@ -1,6 +1,6 @@
 # Hi there! I'm Fadhil 👋 
 
-Frontend Engineer passionate in creating high-performance & interactive modern web experiences with React and Next.js.
+Frontend Engineer passionate in creating high-performance & interactive modern web experiences with React.
 
 ## 🚀 About Me
 - ⚙️ Currently working as Frontend Engineer at **PT Prestasindo Gudang Teknologi**
@@ -10,8 +10,8 @@ Frontend Engineer passionate in creating high-performance & interactive modern w
 - 😎 In my free time, I enjoy watching football and reading books
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,flutter,materialui)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,vite,figma,wordpress,go,netlify,vercel)
+![My Skills](https://skillicons.dev/icons?i=react,typescript,js,tailwind,html,css,astro,gatsby,flutter,materialui)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,vite,figma,wordpress,go,netlify)
 
 
 ## 📈 GitHub Stats
