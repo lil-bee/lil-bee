@@ -10,8 +10,8 @@ Frontend Engineer passionate in creating high-performance & interactive modern w
 - 😎 In my free time, I enjoy watching football and reading books
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,html,css,astro,gatsby,flutter,materialui)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,mongodb,vite,figma,wordpress,go,netlify)
+![My Skills](https://skillicons.dev/icons?i=react,vue,next,typescript,js,tailwind,html,css,astro,gatsby,flutter,materialui)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,mongodb,vite,vitest,figma,wordpress,go,netlify)
 
 ## 🤝 Let's Connect
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fadhilakbar/)
